@@ -22,7 +22,11 @@ See more info at https://academicpages.github.io/
 1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
 1. Run `bundle clean` to clean up the directory (no need to run `--force`)
 1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
+1. add `require 'em/pure_ruby` to `C:\Ruby30-x64\lib\ruby\gems\3.0.0\gems\eventmachine-1.2.7-x64-mingw32\lib
+\eventmachine.rb`
+1. Run `bundle add webrick`
 1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+
 
 # Changelog -- bugfixes and enhancements
 
