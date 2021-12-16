@@ -10,10 +10,6 @@ redirect_from:
 
 Welcome! I am currently a Foundation Scientific Software Engineer at the [Met Office](https://www.metoffice.gov.uk), which is based in Exeter, though I am based remotely in London for the time being.
 
-# Mathematics
-
-From 2017 to 2021, I was a student at [Trinity Hall](https://www.trinhall.cam.ac.uk/), [University of Cambridge](https://www.cam.ac.uk/), graduating with a BA and MMath degree in Mathematics. In my final two years, after briefly dabbling in pure maths, I took almost exclusively theoretical physics courses. My Part III Essay was entitled "The Search for CMB B-mode Polarisation from Inflationary Gravitational Waves" and supervised by Dr Blake Sherwin. It explored an exciting current area of research attempting to understand extremely early universe physics through a present day measurable polarisation pattern in the cosmic microwave background. It can be found [here](/files/PartIIIEssay.pdf).
-
 # Experience
 
 As an undergraduate, I worked at
@@ -27,6 +23,10 @@ I was involved with several societies, notably committee roles on
 * [Cambridge University Powerlifting Club](https://www.cuplc.co.uk/)
 
 My full CV can be found [here](/files/CV.pdf).
+
+# Mathematics
+
+From 2017 to 2021, I was a student at [Trinity Hall](https://www.trinhall.cam.ac.uk/), [University of Cambridge](https://www.cam.ac.uk/), graduating with a BA and MMath degree in Mathematics. In my final two years, after briefly dabbling in pure maths, I took almost exclusively theoretical physics courses. My Part III Essay was entitled "The Search for CMB B-mode Polarisation from Inflationary Gravitational Waves" and was supervised by Dr Blake Sherwin. It explored an exciting current area of research attempting to understand extremely early universe physics through a present day measurable polarisation pattern in the cosmic microwave background. It can be found [here](/files/PartIIIEssay.pdf).
 
 # Tutoring
 
