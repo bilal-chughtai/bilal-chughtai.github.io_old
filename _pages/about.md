@@ -16,7 +16,7 @@ From 2017 to 2021, I was a student at [Trinity Hall](https://www.trinhall.cam.ac
 
 # Experience
 
-As an undergraduate, I was lucky enough to work at
+As an undergraduate, I worked at
 * [DAMTP](https://www.damtp.cam.ac.uk/), as a summer student working on [PyRoss](https://github.com/rajeshrinet/pyross), a new numerical python library offering an integrated platform for inference, forecasts and both non-pharmaceutical and pharmaceutical interventions in structured epidemiological models.
 * [Metaswitch Networks](https://www.metaswitch.com/), as a software engineering intern working on improvements to a Google Cloud based business intelligence platform.
 * [Cambridge Assessment](https://www.cambridge.org/), as an exam marker.
@@ -35,7 +35,7 @@ I am an experienced (200+ hours) private tutor in mathematics. In the past I've 
 # Miscellaneous
 
 * You can see what I'm listening to [here](https://www.last.fm/user/bilalchughtai).
-* I am an effective altruist, and believe in using my career to do the most good.
+* I am an [effective altruist](https://www.effectivealtruism.org/), and believe in using my [career](https://80000hours.org/) to do the most good.
 * I am a competitive powerlifter, and current webmaster of Cambridge University Powerlifting Club. You can keep up
  with my training [here](https://www.instagram.com/beelalsgymdiaries/).
 * I dabble in bouldering.
