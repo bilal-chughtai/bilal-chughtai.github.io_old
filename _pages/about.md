@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a Foundation Scientific Software Engineer at the [Met Office](https://www.metoffice.gov.uk), which is based in Exeter, though I am based remotely in London for the time being.
+Welcome! I am currently a Foundation Scientific Software Engineer at the [Met Office](https://www.metoffice.gov.uk).
 
 # Experience
 
